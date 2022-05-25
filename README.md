@@ -5,7 +5,7 @@ Hi, I'm Carlos Catacoli and I am a Google Certified Data Analyst, MBA with a min
 
 I’m a global citizen with experience in developing and executing successful strategies geared toward increasing revenue and client retention.
 
-My skills include MySQL, Tableau, R, Excel, JavaScript, CSS and  Html.
+My skills include SQL, Tableau, R, Excel, JavaScript, CSS and  Html.
 
 Outside of work, I enjoy traveling, technology and the fine arts.
 
