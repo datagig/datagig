@@ -1,5 +1,5 @@
 ### 
-![Add a heading (2)](https://user-images.githubusercontent.com/65633642/170150650-91cf4ca7-df89-4652-bb89-e932c901b677.png)
+![Add a heading](https://user-images.githubusercontent.com/65633642/170152155-3044e5b3-06f0-4d12-aee9-9090f3586cf5.png)
 
 Hi, I'm Carlos Catacoli and I am a Google Certified Data Analyst, MBA with a minor in Arts from The State University of New York. I’m a creative problem solver interested in generating key research that creates actionable insights, ultimately driving growth and engaging audiences.
 
