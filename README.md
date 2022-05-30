@@ -8,8 +8,7 @@ I’m a global citizen with experience in developing and executing successful st
 My skills include SQL, Tableau, R, Excel, JavaScript, CSS and  Html.
 
 Outside of work, I enjoy traveling, technology and the fine arts.
-![Add a heading][https://datagig.github.io/](src="https://user-images.githubusercontent.com/65633642/171041575-6254f824-af1a-424c-b0f1-f64acfeaabfd.png")
-
+<img width="523" alt="Screen Shot 2022-05-30 at 12 55 39 PM" src="https://user-images.githubusercontent.com/65633642/171042311-da5ae19a-d145-439b-8a0a-72939442f884.png">
 
 **My Content**
 ________________________________________________________________________________________________________________
