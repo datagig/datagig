@@ -43,13 +43,23 @@ _____________________________________________________________________________
 
 
 <p align="center">
-<img width="45" src="https://user-images.githubusercontent.com/65633642/171062838-adaa30f4-4948-4dd9-90dd-ad87e3fc4254.png">
-
-<img width="45" [![linkedin](https://user-images.githubusercontent.com/65633642/171062850-912ec310-efa3-47aa-a72d-e964cb3de762.png)][2]
----<img width="45" src="https://user-images.githubusercontent.com/65633642/171062850-912ec310-efa3-47aa-a72d-e964cb3de762.png">
-<img width="45"  src="https://user-images.githubusercontent.com/65633642/171062820-25bca304-8a65-429d-b4dd-3802362c7dc9.png">  </p>
 
 
+ [![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)
+][2]
+
+[![Untitled design (8)](https://user-images.githubusercontent.com/65633642/171066369-4bcb772a-47e6-4b42-a7d2-0221b081b9df.png)][3]
+[![Untitled design (9)](https://user-images.githubusercontent.com/65633642/171066358-0d61fec9-36f5-4f90-a363-36b5492eb09c.png)][1] </p>
+
+
+
+
+![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)
+
+![Untitled design (8)](https://user-images.githubusercontent.com/65633642/171066369-4bcb772a-47e6-4b42-a7d2-0221b081b9df.png)
+
+
+![Untitled design (9)](https://user-images.githubusercontent.com/65633642/171066358-0d61fec9-36f5-4f90-a363-36b5492eb09c.png)
 
 
 [2]: https://www.linkedin.com/in/carlosantoniocatacoli/
