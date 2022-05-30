@@ -17,16 +17,16 @@
  with experience in developing <br/>
  and executing successful strategies <br/>
   geared toward increasing revenue <br/> and client retention.<br/><br/>
-
-My skills include <br/>
+ </p>
+<p align="center">My skills include <br/>
  SQL, Tableau, R, Excel,<br/>
  JavaScript, <br/>
  CSS and <br/>
- Html.
+ Html. </p>
 <br/><br/>
-Outside of work, <br/>
+<p align="center">Outside of work, <br/>
  I enjoy traveling,<br/> technology and the fine 
- <br/> arts. </p> <br/><br/>
+ <br/> arts. </p> <br/><br/> </p>
 
 <p align="center">VISIT MY WEBSITE</p>
 
