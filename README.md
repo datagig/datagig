@@ -42,7 +42,7 @@
 _____________________________________________________________________________
 
 
-<p align="center">
+<img align=center"  (src=
 
 [![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)][2][![Untitled design (8)](https://user-images.githubusercontent.com/65633642/171066369-4bcb772a-47e6-4b42-a7d2-0221b081b9df.png)][3][![Untitled design (9)](https://user-images.githubusercontent.com/65633642/171066358-0d61fec9-36f5-4f90-a363-36b5492eb09c.png)][1] 
 
@@ -52,7 +52,7 @@ _____________________________________________________________________________
 [1]: https://datagig.github.io/
 [2]: https://www.linkedin.com/in/carlosantoniocatacoli/
 
-[3]: https://calimanmetro.wixsite.com/carloscatacoli
+[3]: https://calimanmetro.wixsite.com/carloscatacoli )>
 
 <br/>
 <!--
