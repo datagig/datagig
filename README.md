@@ -31,7 +31,8 @@
 <p align="center">VISIT MY WEBSITE</p>
 
 
-<p align="center"><img width="323" alt="Screen Shot 2022-05-30 at 12 55 39 PM" src="https://user-images.githubusercontent.com/65633642/171042311-da5ae19a-d145-439b-8a0a-72939442f884.png"
+<p align="center">
+<img width="528" alt="Screen Shot 2022-05-30 at 2 51 11 PM" src="https://user-images.githubusercontent.com/65633642/171052825-317a3867-ac25-43c3-947e-40bab5d9a4e6.png">
 </p>
 
 <p align="center">**My Content**
