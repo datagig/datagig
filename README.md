@@ -30,7 +30,8 @@
  
  
  
-![Untitled design (4)](https://user-images.githubusercontent.com/65633642/171057370-99cefcf3-6458-47ac-84f7-62d4d2ccd970.png)
+
+![Untitled design (5)](https://user-images.githubusercontent.com/65633642/171058746-4c2799a8-0280-4e70-8ef8-0f9d3e64a232.png)
 
 <p align="center">VISIT MY WEBSITE</p>
 
