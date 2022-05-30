@@ -43,11 +43,11 @@
 _____________________________________________________________________________
 
 
-<p align="center"><img width="50"  src="https://user-images.githubusercontent.com/65633642/171062820-25bca304-8a65-429d-b4dd-3802362c7dc9.png"></p>
+<p align="center"><img width="50"  src="https://user-images.githubusercontent.com/65633642/171062820-25bca304-8a65-429d-b4dd-3802362c7dc9.png">
 
-<p align="center"><img width="50" src="https://user-images.githubusercontent.com/65633642/171062838-adaa30f4-4948-4dd9-90dd-ad87e3fc4254.png"></p>
+<img width="50" src="https://user-images.githubusercontent.com/65633642/171062838-adaa30f4-4948-4dd9-90dd-ad87e3fc4254.png">
 
-<p align="center"><img width="50" src="https://user-images.githubusercontent.com/65633642/171062850-912ec310-efa3-47aa-a72d-e964cb3de762.png"> </p>
+<img width="50" src="https://user-images.githubusercontent.com/65633642/171062850-912ec310-efa3-47aa-a72d-e964cb3de762.png"> </p>
 
 
 
