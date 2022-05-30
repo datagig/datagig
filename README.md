@@ -28,19 +28,14 @@
 <br/>
 <p align="center">Outside of work, <br/>
  I enjoy traveling,<br/> technology and the fine 
- <br/> arts. </p> <br/> <br/><br/></p>
+ <br/> arts. </p>  <br/><br/></p>
  
  
  
 
 
 
-<p align="center">VISIT MY WEBSITE</p>
 
-
-<p align="center">
-<img width="228" alt="Screen Shot 2022-05-30 at 2 51 11 PM" src="https://user-images.githubusercontent.com/65633642/171052825-317a3867-ac25-43c3-947e-40bab5d9a4e6.png">
-</p>
 </br>
 
 ![Untitled design (6)](https://user-images.githubusercontent.com/65633642/171059391-b7b9c6b4-7fdd-4adf-b4b4-b145b1f0a347.png)
