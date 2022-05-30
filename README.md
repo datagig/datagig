@@ -1,14 +1,18 @@
 ### 
 ![Add a heading](https://user-images.githubusercontent.com/65633642/170152155-3044e5b3-06f0-4d12-aee9-9090f3586cf5.png)
-
-<p align="center"> Hi, I'm Carlos Catacoli 
+ <br/>
+  <br/>
+   <br/>
+<p align="center"> Hi, <br/>
+  I'm Carlos Catacoli 
   and I am a Google Certified Data Analyst, <br/>
-  MBA with a minor in Arts from The State University of New York.
+  MBA with a minor in Arts from The State University of New York.  <br/>
   I’m a creative problem solver 
-  interested in generating key research that creates actionable insights,
+  interested in generating key research that creates actionable insights, <br/>
   ultimately driving growth and engaging audiences. </p>
 
-<p align="center">I’m a global citizen with experience in developing and executing successful strategies geared toward increasing revenue and client retention.
+<p align="center">I’m a global citizen with experience in developing and executing successful strategies <br/>
+  geared toward increasing revenue and client retention.
 
 My skills include SQL, Tableau, R, Excel, JavaScript, CSS and  Html.
 
