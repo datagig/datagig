@@ -31,12 +31,9 @@
  <br/> arts. </p>  <br/><br/></p>
  
  
- <p align="center">** VISIT MY PORTFOLIO **<br/>
+ 
 
 
-<br/>
- <p align="center"><img width="228" alt="Screen Shot 2022-05-30 at 2 51 11 PM" src="https://user-images.githubusercontent.com/65633642/171052825-317a3867-ac25-43c3-947e-40bab5d9a4e6.png">
-<br/>
 
 </br>
 
