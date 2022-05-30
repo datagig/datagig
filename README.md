@@ -13,12 +13,20 @@
   ultimately driving growth and <br/>
  engaging audiences. </p>
 
-<p align="center">I’m a global citizen with experience in developing and executing successful strategies <br/>
-  geared toward increasing revenue and client retention.
+<p align="center">I’m a global citizen <br/>
+ with experience in developing <br/>
+ and executing successful strategies <br/>
+  geared toward increasing revenue <br/> and client retention.<br/><br/>
 
-My skills include SQL, Tableau, R, Excel, JavaScript, CSS and  Html.
-
-Outside of work, I enjoy traveling, technology and the fine arts. </p>
+My skills include <br/>
+ SQL, Tableau, R, Excel,<br/>
+ JavaScript, <br/>
+ CSS and <br/>
+ Html.
+<br/><br/>
+Outside of work, <br/>
+ I enjoy traveling,<br/> technology and the fine 
+ <br/> arts. </p> <br/><br/>
 
 <p align="center">VISIT MY WEBSITE</p>
 
