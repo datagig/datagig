@@ -4,12 +4,14 @@
   <br/>
    <br/>
 <p align="center"> Hi, <br/>
-  I'm Carlos Catacoli 
+  I'm Carlos Catacoli  <br/>
   and I am a Google Certified Data Analyst, <br/>
   MBA with a minor in Arts from The State University of New York.  <br/>
   I’m a creative problem solver 
-  interested in generating key research that creates actionable insights, <br/>
-  ultimately driving growth and engaging audiences. </p>
+  interested in generating key research <br/>
+ that creates actionable insights, <br/>
+  ultimately driving growth and <br/>
+ engaging audiences. </p>
 
 <p align="center">I’m a global citizen with experience in developing and executing successful strategies <br/>
   geared toward increasing revenue and client retention.
