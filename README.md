@@ -23,10 +23,10 @@
  JavaScript, <br/>
  CSS and <br/>
  Html. </p>
-<br/><br/>
+<br/>
 <p align="center">Outside of work, <br/>
  I enjoy traveling,<br/> technology and the fine 
- <br/> arts. </p> <br/><br/> </p>
+ <br/> arts. </p> <br/> </p>
 
 <p align="center">VISIT MY WEBSITE</p>
 
@@ -34,7 +34,7 @@
 <p align="center"><img width="323" alt="Screen Shot 2022-05-30 at 12 55 39 PM" src="https://user-images.githubusercontent.com/65633642/171042311-da5ae19a-d145-439b-8a0a-72939442f884.png"
 </p>
 
-**My Content**
+<p align="center">**My Content**
 ________________________________________________________________________________________________________________
 
 - [Blog](https://drcyber.org/)
