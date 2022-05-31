@@ -1,6 +1,6 @@
 ### 
 
-![Untitled design (12)](https://user-images.githubusercontent.com/65633642/171077240-5e15ce10-c210-4bac-ac89-40b889a40b63.png)<br/><br/><br/><br/>
+ [![Untitled design (6)](https://user-images.githubusercontent.com/65633642/171059391-b7b9c6b4-7fdd-4adf-b4b4-b145b1f0a347.png)][4]<br/><br/><br/><br/>
 [![Add a heading (6)](https://user-images.githubusercontent.com/65633642/171084846-5677b80f-d07a-4af7-9899-eeab6ea966bf.png)][5]
 
  <br/>
@@ -37,15 +37,16 @@
 
 
 </br>
+[![Untitled design (12)](https://user-images.githubusercontent.com/65633642/171077240-5e15ce10-c210-4bac-ac89-40b889a40b63.png)][5]
 
-[![Untitled design (6)](https://user-images.githubusercontent.com/65633642/171059391-b7b9c6b4-7fdd-4adf-b4b4-b145b1f0a347.png)][4]
+
 
 [4]: https://datagig.github.io/
 [5]: https://datagig.github.io/
 _____________________________________________________________________________
 
- [![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)][2] 
-
+ 
+[![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)][2]
 
 
 
