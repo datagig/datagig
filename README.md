@@ -29,7 +29,7 @@
 <br/>
 <p align="center">Outside of work, <br/>
  I enjoy traveling,  technology<br/> and the fine <br/>
- <br/> arts. </p>  <br/><br/>
+ arts. </p>  <br/><br/>
  
  
  
