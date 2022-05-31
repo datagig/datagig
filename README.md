@@ -28,7 +28,7 @@
  Html. </p>
 <br/>
 <p align="center">Outside of work, <br/>
- I enjoy traveling,<br/> technology and the fine 
+ I enjoy traveling,  technology<br/> and the fine <br/>
  <br/> arts. </p>  <br/><br/>
  
  
