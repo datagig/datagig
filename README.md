@@ -43,16 +43,16 @@
 [4]: https://datagig.github.io/
 [5]: https://datagig.github.io/
 _____________________________________________________________________________
-<p align="center">
- [![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)][2] </p>
+ </br>
+ [![Untitled design (7)](https://user-images.githubusercontent.com/65633642/171066363-1cd300c2-5f53-415a-85a3-d5ea1cf14f78.png)][2] 
 
 
 
 
-[1]: https://datagig.github.io/
+
 [2]: https://www.linkedin.com/in/carlosantoniocatacoli/
 
-[3]: https://calimanmetro.wixsite.com/carloscatacoli 
+
 
 <br/>
 <!--
