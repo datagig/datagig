@@ -2,7 +2,7 @@
 [![Untitled design (19)](https://user-images.githubusercontent.com/65633642/171090407-c86d68f9-1b3d-4bd7-9984-befe3db238a5.png)][6]
 
  <br/><br/><br/><br/>
-![Add a heading (5)](https://user-images.githubusercontent.com/65633642/171084465-90519f5b-b18b-45d5-ac80-551e2a3212c2.png)]
+![Add a heading (5)](https://user-images.githubusercontent.com/65633642/171084465-90519f5b-b18b-45d5-ac80-551e2a3212c2.png)
  <br/>
   <br/>
    <br/>
